@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Node.js.**
 
-- 💬 Ask me about **C, C++, HTML, CSS, JS, Bootstrap**
+- 💬 Ask me about **C, C++, Pyhon, HTML-5, CSS-3, JS, Bootstrap**
 
 - 📫 How to reach me **shvam0000@gmail.com**
 
