@@ -1,11 +1,12 @@
-<h1 align="center">Hey 👋, I'm Shivam Shekhar</h1>
-<h3 align="center">A Web Developer</h3>
+<!-- <h1 align="center">Hey 👋, I'm Shivam Shekhar</h1>
+<h3 align="center">A Web Developer</h3> -->
+<img src = "Cover.png">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvam0000" alt="shvam0000" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **** -->
+<!-- - 🔭 I’m currentlys working on **** -->
 
-- 🌱 I’m currently learning **Tailwind CSS & Node.js**
+- 🌱 I’m currently learning **Tailwind CSS, Node.js & UI/UX**
 
 - 👯 I’m looking to collaborate on **Front-end Projects.**
 
