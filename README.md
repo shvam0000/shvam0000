@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currentlys working on **** -->
 
-- 🌱 I’m currently learning **Tailwind CSS, Node.js & UI/UX**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Front-end Projects.**
 
