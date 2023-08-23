@@ -43,7 +43,7 @@
 
 <details>
   <summary><b>:cyclone: 2022 goal</b></summary>
-   My 2022 goal was to get into <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">MITACS GRI Program and work on a research project</a>. I was fortunate to go to University of New Brunswick and work on HRI projects on Jackal Robot. I even completed my SDE intern at <a href="https://quinence.com/">Quinence</a> and worked with Remix-run framework.
+   My 2022 goal was to get into <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">MITACS GRI </a>and work on a research project. I was fortunate to go to University of New Brunswick and work on HRI projects on Jackal Robot. I even completed my SDE intern at <a href="https://quinence.com/">Quinence</a> and worked with Remix-run framework.
   <br><br>
    <i>😔 Missed the Hacktoberfest</i>
 </details>
