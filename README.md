@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi! I'm currently studying at <a href="https://www.columbia.edu/">Columbia University in the City of New York</a>,
-    <br>majoring on Computer Engineering.
+    <br>majoring on Computer Engineering with a current GPA of 3.78/4.0.
   </samp>
 </p>
 
@@ -31,27 +31,3 @@
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
-
-<details>
-  <summary><b>:telescope: 2023 goal</b></summary>
-  I've started my Master and Columbia University in Computer Engineering and would want to make some great networking connections. In tech stack I would want to complete my Full Stack goal by learning Swift for iOS app development and work more on Web3 projects.
-
-<br><br>
-<i>😊 Onto the Hacktoberfest 2023</i>
-
-</details>
-
-<details>
-  <summary><b>:cyclone: 2022 goal</b></summary>
-   My 2022 goal was to get into <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">MITACS GRI </a>and work on a research project. I was fortunate to go to University of New Brunswick and work on HRI projects on Jackal Robot. I even completed my SDE intern at <a href="https://quinence.com/">Quinence</a> and worked with Remix-run framework.
-  <br><br>
-   <i>😔 Missed the Hacktoberfest</i>
-</details>
-
-<details>
-  <summary><b>:sparkles: 2021 goal</b></summary>
-  ✨ <strong>I DID IT! </strong> ✨ I <i>finally</i> completed my Full Stack Web Development goal, going forward with Mobile App Development and Cloud Technologies. :)
-  <br><br> Along with 9 other friends, we registered GitHub Community SRM to revolutionize open-source in and around the campus!
-  <br><br>
-  <i>😊 Completed the Hacktoberfest for two straight years</i>
-</details>
