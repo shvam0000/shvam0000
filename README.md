@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi! I'm currently studying at <a href="https://www.columbia.edu/">Columbia University in the City of New York</a>,
-    <br>majoring on Computer Engineering with a current GPA of 3.78/4.0.
+    <br>majoring on Computer Engineering.
   </samp>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <samp>
-    Before that, I completed my B.Tech in CSE from SRMIST, India with a GPA of 9.58/10.0
+    Before that, I completed my B.Tech in CSE from SRMIST, India
     <br>It was where I learnt my coding skills and got nurtured,
     <br>and completed 3 full-time internships as SDE and a <a href="https://ieeexplore.ieee.org/document/10127556">research paper</a>.
   </samp>
