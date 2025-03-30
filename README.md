@@ -1,13 +1,19 @@
 <p align="center">
   <samp>
-    Hi! I'm currently studying at <a href="https://www.columbia.edu/">Columbia University in the City of New York</a>,
-    <br>majoring on Computer Engineering.
+    Hi! I'm currently working at <a href="https://dune.security/">Dune Security</a>,
+    <br>as a Software Engineer.
   </samp>
 </p>
 
 <p align="center">
   <samp>
     <img src="https://github.com/pifafu/pifafu/assets/5679180/07d226f9-2b92-4077-af43-37c92be369f2" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    I graduated from <a href="https://www.columbia.edu/">Columbia University</a> completing my Master's in Computer Engineering.
   </samp>
 </p>
 
